@@ -1,0 +1,84 @@
+Alumina
+ABS
+ABS PC
+Acrylic (Medium-high impact)
+CA
+Delrin 2700 NC010, Low Viscosity Acetal Copolymer (SS)
+Epoxy, Unfilled
+EPDM
+Melamine resin
+Nylon 101
+Nylon 6/10
+PA Type 6
+PBT General Purpose
+PC High Viscosity
+PE High Density
+PE Low/Medium Density
+Perspex (TM) GS Acrylic Cast Sheet
+PF
+Polybutadiene (PB)
+PBTP
+PEI
+Polyester Resin
+Polyether Polyol
+Polyetheretherketone (PEEK)
+Polyethylene Cross-Linked
+PE High Density Film
+PE Low Density Film
+PET
+PMMA
+POM Acetal Copolymer
+PP Copolymer
+PPE
+PPS
+PP Homopolymer
+PP Film
+PS Medium/High Flow
+PS HI
+PTFE (general)
+PUR
+PVAL
+PVB
+PVC 0.007 Plasticized
+PVC Rigid
+Sheet Moulding Compound
+SMA
+Very Low Density PE (SS)
+Air
+Ceramic Porcelain
+Corrugated Paper
+Glass
+C (Graphite)
+Polyurethane Foam Flexible
+Polyurethane Foam Rigid
+Rubber
+Water
+A-Glass Fiber
+C-Glass Fiber
+E-Glass Fiber
+S-Glass Fiber
+Hexcel AS4C (3000 Filaments)
+Thornel Mat VMA
+Thornel VCB-20 Carbon Cloth
+Zoltek Panex 33
+Silicon Dioxide
+BUTYL
+EPDM 60 Durometer
+EPICHLOROHYDRIN
+HYPALON
+Natural Rubber
+NBR
+NEOPRENE
+POLYURETHANE (11671)
+SANTOPRENE
+SBR
+Silicon Rubber
+VITON
+Balsa
+Beech
+Cedar
+Mahogany
+Maple
+Oak
+Pine
+Teak
